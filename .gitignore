@@ -1,0 +1,5 @@
+#Git Ignore for Mourning Mirrors
+
+#Unreal Auto Generated files
+MM_Prototype/Intermediate
+MM_Prototype/Saved
