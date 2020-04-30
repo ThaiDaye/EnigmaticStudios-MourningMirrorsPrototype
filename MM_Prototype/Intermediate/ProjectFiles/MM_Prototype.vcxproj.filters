@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MM_Prototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{45280EE8-E1D3-473E-9614-C91784FE49C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MM_Prototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MM_PrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{88CC8031-5E27-43E6-B0CC-41593B9DB523}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MM_Prototype">
+      <UniqueIdentifier>{16B22EC5-C5AE-456F-9BC4-B48B601FC72F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MM_Prototype\MM_Prototype.Build.cs">
+      <Filter>Source\MM_Prototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MM_Prototype\MM_Prototype.cpp">
+      <Filter>Source\MM_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MM_Prototype\MM_Prototype.h">
+      <Filter>Source\MM_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MM_Prototype\SortingFunctions.cpp">
+      <Filter>Source\MM_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MM_Prototype\SortingFunctions.h">
+      <Filter>Source\MM_Prototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
