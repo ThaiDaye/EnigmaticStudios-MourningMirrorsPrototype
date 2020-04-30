@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MM_Prototype",
+			"Path": "C:\\Users\\oloap\\Documents\\Repositories\\MouringMirrors_Prototype\\MM_Prototype\\Source\\MM_Prototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MM_PrototypeEditor",
+			"Path": "C:\\Users\\oloap\\Documents\\Repositories\\MouringMirrors_Prototype\\MM_Prototype\\Source\\MM_PrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
