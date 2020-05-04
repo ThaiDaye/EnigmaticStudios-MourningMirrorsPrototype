@@ -79,3 +79,6 @@ DerivedDataCache/*
 
 # Blender backups
 *.blend1
+
+# Private folder for dev stuff you want out of the repo
+Development/*/Private/
