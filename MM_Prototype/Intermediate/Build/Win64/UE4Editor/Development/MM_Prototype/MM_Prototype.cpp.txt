@@ -1,2 +1,0 @@
-C:\Users\oloap\Documents\Repositories\Mouring_Mirrors\MM_Prototype\Intermediate\Build\Win64\UE4Editor\Development\MM_Prototype\Definitions.MM_Prototype.h
-C:\Users\oloap\Documents\Repositories\Mouring_Mirrors\MM_Prototype\Source\MM_Prototype\MM_Prototype.h
